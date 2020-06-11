@@ -10,10 +10,13 @@
 ## Architecture
 
 css
-- styles.css    
+- styles.css  
+
 js
 - app.js
+
 index.html
+
 README.md
 
 ## Usability
